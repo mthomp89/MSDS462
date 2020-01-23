@@ -4,7 +4,7 @@
 Neural Network Modeling on the Fashion MNIST Dataset
 2. [OpenAi Gym: Ms. Pacman](Training_MsPacman_OpenAi_Gym.ipynb)   
 Training and rendering of Ms. Pacman Atari game 
-3. [GCP Cloud Vision API]
+3. [GCP Cloud Vision API](Google_Cloud_VisionAPI.ipynb)  
 Functionality of calling GCP cloud vision API   
 4. [ResNet50 Transfer Learning]
 Utilization of ResNet50 model
