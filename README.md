@@ -8,5 +8,5 @@ Training and rendering of Ms. Pacman Atari game
 Functionality of calling GCP cloud vision API   
 4. [ResNet50 Transfer Learning]
 Utilization of ResNet50 model
-5. [Course Project](MSDS462_Final_Project__v2.ipynb)  
+5. [ML to the Edge](Corgi_Classifier_iOS_App.ipynb)  
 Course Project: Object Classifier iOS app 
